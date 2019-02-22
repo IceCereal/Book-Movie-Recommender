@@ -1,0 +1,13 @@
+# BookSummaries' Data:
+BookSummaries/booksummaries.txt
+BookSummaries/README
+
+# MovieSummaries' Data:
+MovieSummaries/DataSplit/
+MovieSummaries/movie.metadata.tsv
+MovieSummaries/plot_summaries.txt
+MovieSummaries/README.txt
+
+# DataSplit.tar.gz
+DataSplit.tar.gz
+
