@@ -12,3 +12,8 @@ MovieSummaries/.goutputstream-4OF8WZ
 # DataSplit.tar.gz
 DataSplit.tar.gz
 
+# Data Used
+Data/
+
+# Temporary Junk File
+TempUses/
